@@ -1,0 +1,7 @@
+# virtual env
+.env
+env
+venv
+
+# data
+data
